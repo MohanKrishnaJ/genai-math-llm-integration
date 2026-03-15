@@ -121,7 +121,7 @@ print(final_response["choices"][0]["message"]["content"])
 
 ### OUTPUT:
 
-<img width="581" height="42" alt="image" src="https://github.com/user-attachments/assets/5e8aea23-eb2f-4b60-b0bf-fe1b44967f52" />
+
 
 
 ### RESULT:
